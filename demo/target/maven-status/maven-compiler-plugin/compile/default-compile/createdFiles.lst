@@ -1,0 +1,6 @@
+com/demo/repository/BookRepository.class
+com/demo/web/BookController.class
+com/demo/model/BookEntity.class
+com/demo/DemoApplication.class
+com/demo/exception/RecordNotFoundException.class
+com/demo/service/BookService.class
